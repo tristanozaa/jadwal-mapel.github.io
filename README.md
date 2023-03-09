@@ -7,3 +7,5 @@
 💡 Semoga repositori ini dapat bermanfaat bagi yang ingin belajar HTML dan CSS, serta dapat memberikan inspirasi dalam membuat tampilan yang menarik pada aplikasi web.
 
 ![Screenshot](https://user-images.githubusercontent.com/106224847/220413098-38d4e700-12c1-4cf8-80a0-667f1dda4700.png)
+
+https://tristanozaa.github.io/jadwal-mapel.github.io/
